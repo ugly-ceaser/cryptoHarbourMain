@@ -8,11 +8,12 @@ include 'header.php';
     <section class="hero" id="hero" data-aos="fade-down">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-sm-12 col-md-6">
-                    <h1><span class="str">Capita Profits</span><br>Grow Your Wealth with Confidence</h1>
-                    <p>Choose Capita Profits for Expert Crypto and Forex Investment Strategies!</p>
-                    <p><a href="#" class="btn btn">Register Now!</a></p>
+                <div class="col-lg-8 col-sm-12 col-md-8 ">
+                    <h1><span class="str">Crypto Harbor Capital</span><br>Your Gateway to Financial Prosperity</h1>
+                    <p>Chart Your Course to Wealth with Expert Crypto and Forex Insights!</p>
+                    <a href="#" class="btn btn-success  btn-lg">Embark on Your Journey Now!</a>
                 </div>
+
                 <div class="col-lg-4 col-sm-12 col-md-6 right-hero-section">
                     <div class="row gy-3 overlay">
                         <div class="col-lg-12">
@@ -50,35 +51,35 @@ include 'header.php';
     <section class="features" data-aos="fade-in">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-3 features-content" data-aos="zoom-in" data-aos-delay="20">
-                    <svg >
-                        <circle cx="80" cy="80" r="40" fill="blue"></circle>
-                        <circle cx="10" cy="80" r="20" fill="blue"></circle>
-                        <circle cx="50" cy="80" r="10" fill="blue"></circle>
-                        <circle cx="130" cy="5" r="130" fill="blue"></circle>
-                        <circle cx="100" cy="80" r="100" fill="blue"></circle>
-                    </svg>
-                    <h4><span data-purecounter-start="0" data-purecounter-end="250" data-purecounter-duration="4" class="purecounter"></span>+</h4>
-                    <p>Users</p>
-                </div>
+                        <div class="col-lg-3 features-content" data-aos="zoom-in" data-aos-delay="20">
+                <svg>
+                    <circle cx="50" cy="70" r="90" fill="green"></circle>
+                    <circle cx="10" cy="80" r="20" fill="green"></circle>
+                    <circle cx="50" cy="80" r="10" fill="green"></circle>
+                    <circle cx="130" cy="5" r="130" fill="green"></circle>
+                    <circle cx="100" cy="80" r="100" fill="green"></circle>
+                </svg>
+                <h4><span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="4" class="purecounter"></span>+</h4>
+                <p>Users</p>
+            </div>
                 <div class="col-lg-3 features-content" data-aos="fade-up" data-aos-delay="40">
                     <h4>$<span data-purecounter-start="0" data-purecounter-end="200" data-purecounter-duration="4" class="purecounter"></span>M+</h4>
                     <p>Transactions</p>
                     <svg height="300" width="300">
-                        <circle cx="80" cy="80" r="40" fill="blue"></circle>
-                        <circle cx="10" cy="80" r="20" fill="blue"></circle>
-                        <circle cx="50" cy="80" r="10" fill="blue"></circle>
-                        <circle cx="130" cy="5" r="130" fill="blue"></circle>
-                        <circle cx="100" cy="80" r="100" fill="blue"></circle>
+                        <circle cx="80" cy="80" r="40" fill="yellow"></circle>
+                        <circle cx="10" cy="80" r="20" fill="yellow"></circle>
+                        <circle cx="50" cy="80" r="10" fill="yellow"></circle>
+                        <circle cx="130" cy="5" r="130" fill="yellow"></circle>
+                        <circle cx="100" cy="80" r="100" fill="yellow"></circle>
                     </svg>
                 </div>
                 <div class="col-lg-3 features-content" data-aos="fade-down" data-aos-delay="60">
                     <svg height="300" width="300">
-                        <circle cx="80" cy="80" r="40" fill="blue"></circle>
-                        <circle cx="10" cy="80" r="20" fill="blue"></circle>
-                        <circle cx="50" cy="80" r="10" fill="blue"></circle>
-                        <circle cx="130" cy="5" r="130" fill="blue"></circle>
-                        <circle cx="100" cy="80" r="100" fill="blue"></circle>
+                        <circle cx="80" cy="80" r="40" fill="red"></circle>
+                        <circle cx="10" cy="80" r="20" fill="red"></circle>
+                        <circle cx="50" cy="80" r="10" fill="red"></circle>
+                        <circle cx="130" cy="5" r="130" fill="red"></circle>
+                        <circle cx="100" cy="80" r="100" fill="red"></circle>
                     </svg>
                     <h4><span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="4" class="purecounter"></span></h4>
                     <p>Countries</p>
@@ -104,23 +105,24 @@ include 'header.php';
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-6" data-aos="fade-right">
-                    <h2>Your Passport to the<br>Early Retirement</h2>
-                    <p>Maximize Your Wealth Potential with Capita Profits: Your Partner in Crypto and Forex Investments!</p>
+                    <h2>Your Ticket to Achieving<br>Financial Independence</h2>
+                    <p>Unlock Your Wealth Potential with Crypto Harbor Capital: Your Partner in Crypto and Forex Investments!</p>
                 </div>
                 <div class="col-lg-4 img" data-aos="fade-left">
-                   <!-- using image as background -->
+                    <!-- You can add an image here as the background -->
                 </div>
             </div>
         </div>
+
     </section>
     <!-- End Another Section -->
 
     <!-- Other Section -->
-    <section class="otherSection">
+    <section class="otherSection" id="packages">
         <div class="container conatiner-other-section">
 
             <div class="row d-flex justify-content-around ">
-                <h1 class="col-lg-12 col-md-12 col-sm-12 str text-primary text-center">Packages</h1>
+                <h1 class="col-lg-12 col-md-12 col-sm-12 str text-dark text-center">Packages</h1>
              <div class="cont col-lg-4 col-md-4 col-sm-12" data-aos="fade-up">
                 <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                 <h3>Basic Package</h3>
@@ -180,13 +182,14 @@ include 'header.php';
 
     <!-- Future Of Finance Section -->
     <div class="future-of-finance" data-aos="fade-up" data-aos-delay="200">
-        <div class="container">
-            <h2 class="heading-enter-the-future-of-finance">Enter the Future of Finance</h2>
-            <p class="text-dark">Experience Prosperity with Capita Profits: Your Trusted Experts in Crypto and Forex!</p>
-            <span><a href="" class="btn btn-primary">Create an Account Now!</a></span>
-            <span><a href="" class="btn btn-primary">Packages</a></span>
-        </div>
+    <div class="container">
+        <h2 class="heading-enter-the-future-of-finance">Unlock the Future of Finance</h2>
+        <p class="text-dark">Experience Prosperity with Crypto Harbor Capital: Your Trusted Partner in Crypto and Forex!</p>
+        <span><a href="" class="btn btn-danger">Join Us Today!</a></span>
+        <span><a href="" class="btn btn-warning">Explore Our Plans</a></span>
     </div>
+</div>
+
     <!-- End Future of Finance Section -->
 <?php
 

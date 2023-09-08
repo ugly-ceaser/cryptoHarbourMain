@@ -1,65 +1,62 @@
-
-    <!-- Footer Section -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-contents" data-aos="fade-down">
-                <div class="top-head d-flex align-items-center justify-content-start gx-3">
-                    <img src="./assets/img/icon.PNG" alt="" width="30">
-                    <h5 class="my-2 mx-2 mb-2">Capita Profits</h5>
-                </div>
-                <p class="mt-3"><i class="fa fa-copyright"></i> 2021 Capita Profits<br>Grow Your Wealth with Confidence</p>
+<!-- Footer Section -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-contents" data-aos="fade-down">
+            <div class="top-head d-flex align-items-center justify-content-start gx-3">
+                <img src="./assets/img/icon.PNG" alt="" width="30">
+                <h5 class="my-2 mx-2 mb-2">Crypto Harbor Capital</h5>
             </div>
-            <div class="footer-contents" data-aos="fade-down">
-                <h5 class="mb-3">Packages</h5>
-                <p><a href="#" class="footer-link">Basic</a></p>
-                <p><a href="#" class="footer-link">Advance</a></p>
-                <p><a href="#" class="footer-link">Premium</a></p>
-                <p><a href="#" class="footer-link">Platinuim</a></p>
-            </div>
-            <div class="footer-contents" data-aos="fade-down">
-                <h5 class="mb-3">LINK</h5>
-                <p><a href="#" class="footer-link">Home</a></p>
-                
-                <p><a href="#" class="footer-link">Register</a></p>
-                <p><a href="#" class="footer-link">Login</a></p>
-            </div>
-            <div class="footer-contents" data-aos="fade-down">
-                <h5 class="mb-3">Learn</h5>
-                <p><a href="#" class="footer-link">What is bitcoin</a></p>
-                <p><a href="#" class="footer-link">What is Etherum</a></p>
-                <p><a href="#" class="footer-link">Getting Started</a></p>
-                <p><a href="#" class="footer-link">Blog</a></p>
-            </div>
-            <div class="footer-contents" data-aos="fade-down">
-                <h5 class="mb-3">Company</h5>
-                <p><a href="#" class="footer-link">About Us</a></p>
-                <p><a href="#" class="footer-link">Contacts</a></p>
-                <p><a href="#" class="footer-link">Terms</a></p>
-                <p><a href="#" class="footer-link">Legals</a></p>
-            </div>
-           
+            <p class="mt-3"><i class="fa fa-copyright"></i> 2023 <br>Your Gateway to Financial Prosperity</p>
         </div>
-    </footer>
-    <!-- End footer section -->
-
-
-    <!-- Copyright section -->
-    <div class="copyright">
-        <div class="container d-flex align-items-center justify-content-between pt-3">
-            <div class="socials d-flex align-items-center justify-content-between">
-                <p><a href="#"><i class="bi bi-linkedin"></i></a></p>
-                <p><a href="#"><i class="bi bi-facebook"></i></a></p>
-                <p><a href="#"><i class="bi bi-twitter"></i></a></p>
-            </div>
-
-            <div class="copyright-texts d-flex align-items-center justify-content-between">
-                <p>Ceaser<sup>@</sup> Inc. </p>
-                <p> 2011. </p>
-                <p> All Rights Reserved </p>
-            </div>
+        <div class="footer-contents" data-aos="fade-down">
+            <h5 class="mb-3">Investment Plans</h5>
+            <p><a href="#" class="footer-link">Basic</a></p>
+            <p><a href="#" class="footer-link">Advanced</a></p>
+            <p><a href="#" class="footer-link">Premium</a></p>
+            <p><a href="#" class="footer-link">Platinum</a></p>
+        </div>
+        <div class="footer-contents" data-aos="fade-down">
+            <h5 class="mb-3">Quick Links</h5>
+            <p><a href="#" class="footer-link">Home</a></p>
+            <p><a href="#" class="footer-link">Register</a></p>
+            <p><a href="#" class="footer-link">Login</a></p>
+        </div>
+        <div class="footer-contents" data-aos="fade-down">
+            <h5 class="mb-3">Learn</h5>
+            <p><a href="#" class="footer-link">What is Bitcoin</a></p>
+            <p><a href="#" class="footer-link">What is Ethereum</a></p>
+            <p><a href="#" class="footer-link">Getting Started</a></p>
+            <p><a href="#" class="footer-link">Blog</a></p>
+        </div>
+        <div class="footer-contents" data-aos="fade-down">
+            <h5 class="mb-3">Company</h5>
+            <p><a href="#" class="footer-link">About Us</a></p>
+            <p><a href="#" class="footer-link">Contact Us</a></p>
+            <p><a href="#" class="footer-link">Terms of Service</a></p>
+            <p><a href="#" class="footer-link">Legal Notice</a></p>
         </div>
     </div>
-    <!-- End copyright section -->
+</footer>
+<!-- End footer section -->
+
+<!-- Copyright section -->
+<div class="copyright">
+    <div class="container d-flex align-items-center justify-content-between pt-3">
+        <div class="socials d-flex align-items-center justify-content-between">
+            <p><a href="#"><i class="bi bi-linkedin"></i></a></p>
+            <p><a href="#"><i class="bi bi-facebook"></i></a></p>
+            <p><a href="#"><i class="bi bi-twitter"></i></a></p>
+        </div>
+
+        <div class="copyright-texts d-flex align-items-center justify-content-between">
+            <p>Crypto Harbor Capital<sup>@</sup> Inc. </p>
+            <p> 2023. </p>
+            <p> All Rights Reserved. </p>
+        </div>
+    </div>
+</div>
+<!-- End copyright section -->
+
 
 
     <!-- Scripts Assets -->

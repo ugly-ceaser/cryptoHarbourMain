@@ -5,9 +5,9 @@
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Capita Profits</title>
+    <title>Crypto Harbor Capital</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="./userPage/dist/img/logo.png">
+    <!-- <link rel="shortcut icon" href="./userPage/dist/img/logo.png"> -->
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -27,8 +27,8 @@
 
     <nav  class="navbar navbar-expand-lg navbar-light bg-light fixed-top p-2"   >
         <a class="navbar-brand">
-            <img src="./userPage/dist/img/logo.png" alt="blockchain" class="nav-logo" width="50" height="50">
-            Capita Profits
+            <!-- <img src="./userPage/dist/img/logo.png" alt="blockchain" class="nav-logo" width="50" height="50"> -->
+            Crypto Harbor Capital
         </a>
         <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -39,7 +39,7 @@
                     <a class="nav-link" href="./index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./index.php#about" tabindex="-1" aria-disabled="true">About Us</a>
+                    <a class="nav-link" href="./index.php#packages" tabindex="-1" aria-disabled="true">Packages</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="./index.php#contact" tabindex="-1" aria-disabled="true">Contact Us</a>
