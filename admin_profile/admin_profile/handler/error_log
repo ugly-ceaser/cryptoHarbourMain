@@ -1,0 +1,288 @@
+[06-May-2022 12:30:18 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 21
+[06-May-2022 12:30:18 America/New_York] PHP Notice:  Undefined variable: sql in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 36
+[06-May-2022 12:30:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: trying to execute an empty query in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:36
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(36): PDO->exec('')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 36
+[06-May-2022 12:31:41 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 21
+[06-May-2022 12:31:41 America/New_York] PHP Notice:  Undefined variable: sql in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 36
+[06-May-2022 12:31:41 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: trying to execute an empty query in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:36
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(36): PDO->exec('')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 36
+[06-May-2022 12:34:57 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 23
+[06-May-2022 12:37:48 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 26
+[06-May-2022 12:38:24 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 26
+[06-May-2022 12:39:09 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 26
+[06-May-2022 12:47:08 America/New_York] PHP Notice:  Undefined index: fund in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 26
+[06-May-2022 12:57:47 America/New_York] PHP Notice:  Undefined variable: sql in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 39
+[06-May-2022 12:57:47 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: trying to execute an empty query in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:39
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(39): PDO->exec('')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 39
+[06-May-2022 13:09:57 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 94
+[09-May-2022 01:02:45 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-38' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[09-May-2022 01:02:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-38' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[10-May-2022 21:04:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-19' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[10-May-2022 21:05:02 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-19' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[10-May-2022 21:05:12 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-19' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[10-May-2022 21:05:27 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-19' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[13-May-2022 00:44:17 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-3000' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[13-May-2022 00:44:26 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-3000' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[13-May-2022 00:48:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-3000' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:48
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(48): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 48
+[13-May-2022 04:08:56 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 93
+[13-May-2022 04:13:31 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 93
+[13-May-2022 04:16:19 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 93
+[13-May-2022 04:18:51 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 93
+[13-May-2022 04:24:56 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 93
+[13-May-2022 04:44:11 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-3000' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:90
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(90): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 90
+[16-May-2022 08:57:51 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'profihhe_GlobalTrade.validUsers' doesn't exist in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(23): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 23
+[16-May-2022 09:04:22 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'profihhe_GlobalTrade.validUsers' doesn't exist in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(23): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 23
+[16-May-2022 09:13:52 America/New_York] PHP Notice:  Undefined variable: finalAmount in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 27
+[16-May-2022 09:14:07 America/New_York] PHP Notice:  Undefined variable: finalAmount in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 27
+[17-May-2022 17:23:24 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 25
+[18-May-2022 20:23:48 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 25
+[20-May-2022 01:56:43 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 25
+[23-May-2022 10:58:47 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[23-May-2022 10:58:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[23-May-2022 10:59:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[23-May-2022 11:03:08 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:106
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(106): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 106
+[23-May-2022 11:42:50 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[23-May-2022 11:42:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[23-May-2022 11:43:04 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[23-May-2022 11:46:53 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 107
+[23-May-2022 11:52:39 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Admin-500' for key 'trxId' in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php:104
+Stack trace:
+#0 /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php(104): PDO->exec('INSERT INTO `Ge...')
+#1 {main}
+  thrown in /home/profihhe/public_html/profiles/admin_profile/handler/user_handler.php on line 104
+[01-Feb-2023 14:36:09 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[01-Feb-2023 14:36:25 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[01-Feb-2023 14:44:57 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:28:43 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:28:56 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:30:00 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:31:18 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:31:41 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:33:43 UTC] PHP Parse error:  syntax error, unexpected token "exit", expecting "," or ";" in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 16
+[04-Feb-2023 06:33:49 UTC] PHP Parse error:  syntax error, unexpected token "exit", expecting "," or ";" in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 16
+[04-Feb-2023 06:35:57 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 15
+[04-Feb-2023 06:40:31 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 37
+[04-Feb-2023 06:41:06 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 37
+[04-Feb-2023 06:43:20 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 37
+[04-Feb-2023 06:44:40 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arbikawn/public_html/admin_profile/handler/auth_handler.php on line 37
+[08-Feb-2023 15:47:44 UTC] PHP Warning:  Undefined array key "pro" in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 15:47:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::execute() expects exactly 0 arguments, 1 given in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:34
+Stack trace:
+#0 /home/arbikawn/public_html/admin_profile/handler/user_handler.php(34): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 34
+[08-Feb-2023 15:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::exec() in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 30
+[08-Feb-2023 15:50:23 UTC] PHP Warning:  Undefined array key "pro" in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 40
+[08-Feb-2023 15:50:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::execute() expects exactly 0 arguments, 1 given in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:51
+Stack trace:
+#0 /home/arbikawn/public_html/admin_profile/handler/user_handler.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 51
+[08-Feb-2023 15:50:28 UTC] PHP Warning:  Undefined array key "pro" in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 40
+[08-Feb-2023 15:50:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::execute() expects exactly 0 arguments, 1 given in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:51
+Stack trace:
+#0 /home/arbikawn/public_html/admin_profile/handler/user_handler.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 51
+[08-Feb-2023 15:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::exec() in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 30
+[08-Feb-2023 15:53:24 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 15:53:31 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 15:56:44 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 15:56:58 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 15:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::exec() in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 30
+[08-Feb-2023 16:01:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::execute() expects exactly 0 arguments, 1 given in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:31
+Stack trace:
+#0 /home/arbikawn/public_html/admin_profile/handler/user_handler.php(31): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 31
+[08-Feb-2023 16:01:41 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 16:01:58 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 23
+[08-Feb-2023 16:02:32 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 25
+[08-Feb-2023 16:03:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::execute() expects exactly 0 arguments, 1 given in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:32
+Stack trace:
+#0 /home/arbikawn/public_html/admin_profile/handler/user_handler.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 32
+[08-Feb-2023 16:03:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::execute() expects exactly 0 arguments, 1 given in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:32
+Stack trace:
+#0 /home/arbikawn/public_html/admin_profile/handler/user_handler.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 32
+[20-Feb-2023 11:56:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUser() in /home/arbikawn/public_html/admin_profile/handler/user_handler.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 143
+[20-Feb-2023 12:00:10 UTC] PHP Parse error:  Unclosed '{' on line 133 does not match ')' in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 152
+[20-Feb-2023 12:08:48 UTC] PHP Parse error:  Unmatched '}' in /home/arbikawn/public_html/admin_profile/handler/user_handler.php on line 173
+[12-Mar-2023 02:04:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/fidenkoq/public_html/admin_profile/handler/auth_handler.php on line 21
+[12-Mar-2023 02:04:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/fidenkoq/public_html/admin_profile/handler/auth_handler.php on line 21
+[12-Mar-2023 10:55:46 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 147
+[12-Mar-2023 10:55:46 UTC] PHP Warning:  Undefined variable $row in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 152
+[12-Mar-2023 10:55:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 152
+[12-Mar-2023 10:56:38 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 149
+[12-Mar-2023 10:56:38 UTC] PHP Warning:  Undefined variable $row in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 154
+[12-Mar-2023 10:56:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 154
+[12-Mar-2023 10:56:45 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 193
+[12-Mar-2023 10:56:45 UTC] PHP Warning:  Undefined variable $row in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 198
+[12-Mar-2023 10:56:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 198
+[12-Mar-2023 10:57:04 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 149
+[12-Mar-2023 10:57:04 UTC] PHP Warning:  Undefined variable $row in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 154
+[12-Mar-2023 10:57:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fidenkoq/public_html/admin_profile/handler/user_handler.php on line 154
+[12-May-2023 19:11:48 UTC] PHP Notice:  Undefined index: user in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 104
+[12-May-2023 19:40:36 UTC] PHP Notice:  Undefined index: user in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 117
+[12-May-2023 19:40:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/capildpro/public_html/admin_profile/handler/user_handler.php:13
+Stack trace:
+#0 /home2/capildpro/public_html/admin_profile/handler/user_handler.php(119): getUser(Object(mysqli), NULL)
+#1 {main}
+  thrown in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 13
+[12-May-2023 19:42:16 UTC] PHP Notice:  Undefined variable: name in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 120
+[12-May-2023 19:42:28 UTC] PHP Notice:  Undefined variable: name in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 120
+[12-May-2023 19:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/capildpro/public_html/admin_profile/handler/user_handler.php:13
+Stack trace:
+#0 /home2/capildpro/public_html/admin_profile/handler/user_handler.php(119): getUser(Object(mysqli), 'martins.paracle...')
+#1 {main}
+  thrown in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 13
+[12-May-2023 19:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/capildpro/public_html/admin_profile/handler/user_handler.php:13
+Stack trace:
+#0 /home2/capildpro/public_html/admin_profile/handler/user_handler.php(119): getUser(Object(mysqli), 'martins.paracle...')
+#1 {main}
+  thrown in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 13
+[12-May-2023 19:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/capildpro/public_html/admin_profile/handler/user_handler.php:13
+Stack trace:
+#0 /home2/capildpro/public_html/admin_profile/handler/user_handler.php(119): getUser(Object(mysqli), 'martins.paracle...')
+#1 {main}
+  thrown in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 13
+[12-May-2023 19:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home2/capildpro/public_html/admin_profile/handler/user_handler.php:13
+Stack trace:
+#0 /home2/capildpro/public_html/admin_profile/handler/user_handler.php(119): getUser(Object(mysqli), 'martins.paracle...')
+#1 {main}
+  thrown in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 13
+[12-May-2023 20:02:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 333
+[12-May-2023 20:04:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 335
+[12-May-2023 20:09:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 338
+[12-May-2023 20:10:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 340
+[12-May-2023 20:10:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 340
+[04-Jul-2023 09:44:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[04-Jul-2023 09:44:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[13-Jul-2023 11:57:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[13-Jul-2023 11:57:16 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[13-Jul-2023 12:00:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[14-Jul-2023 03:38:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[16-Jul-2023 15:37:59 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[16-Jul-2023 20:54:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home2/capildpro/public_html/admin_profile/handler/conn.php on line 10
+[30-Aug-2023 05:31:37 UTC] PHP Notice:  Undefined variable: row in /home2/capildpro/public_html/admin_profile/handler/user_handler.php on line 228

@@ -1,0 +1,38 @@
+[13-Mar-2023 07:00:11 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 322
+[13-Mar-2023 07:00:11 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 323
+[13-Mar-2023 07:00:11 UTC] PHP Warning:  Undefined variable $to in /home/fidenkoq/public_html/User/scripts/funct.php on line 327
+[13-Mar-2023 07:00:11 UTC] PHP Warning:  Undefined variable $subject in /home/fidenkoq/public_html/User/scripts/funct.php on line 327
+[15-Mar-2023 22:48:12 UTC] PHP Warning:  Undefined variable $_session in /home/fidenkoq/public_html/User/scripts/funct.php on line 699
+[15-Mar-2023 22:48:12 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/fidenkoq/public_html/User/scripts/funct.php:699
+Stack trace:
+#0 {main}
+  thrown in /home/fidenkoq/public_html/User/scripts/funct.php on line 699
+[15-Mar-2023 22:49:16 UTC] PHP Warning:  Undefined variable $new_invest in /home/fidenkoq/public_html/User/scripts/funct.php on line 703
+[15-Mar-2023 22:49:16 UTC] PHP Warning:  Undefined variable $new_invest in /home/fidenkoq/public_html/User/scripts/funct.php on line 707
+[15-Mar-2023 22:49:16 UTC] PHP Warning:  Undefined variable $new_balance in /home/fidenkoq/public_html/User/scripts/funct.php on line 63
+[15-Mar-2023 22:49:16 UTC] PHP Warning:  Undefined variable $new_balance in /home/fidenkoq/public_html/User/scripts/funct.php on line 71
+[15-Mar-2023 22:49:16 UTC] PHP Warning:  Undefined variable $new_invest in /home/fidenkoq/public_html/User/scripts/funct.php on line 72
+[15-Mar-2023 22:51:18 UTC] PHP Warning:  Undefined variable $amount in /home/fidenkoq/public_html/User/scripts/funct.php on line 660
+[15-Mar-2023 22:53:37 UTC] PHP Warning:  Undefined variable $new_balance in /home/fidenkoq/public_html/User/scripts/funct.php on line 63
+[15-Mar-2023 22:53:37 UTC] PHP Warning:  Undefined variable $new_balance in /home/fidenkoq/public_html/User/scripts/funct.php on line 71
+[15-Mar-2023 22:53:37 UTC] PHP Warning:  Undefined variable $new_invest in /home/fidenkoq/public_html/User/scripts/funct.php on line 72
+[16-Mar-2023 18:40:46 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 341
+[16-Mar-2023 18:40:46 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 342
+[16-Mar-2023 18:40:46 UTC] PHP Warning:  Undefined variable $to in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[16-Mar-2023 18:40:46 UTC] PHP Warning:  Undefined variable $subject in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[30-Mar-2023 15:55:37 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 341
+[30-Mar-2023 15:55:37 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 342
+[30-Mar-2023 15:55:37 UTC] PHP Warning:  Undefined variable $to in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[30-Mar-2023 15:55:37 UTC] PHP Warning:  Undefined variable $subject in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[31-Mar-2023 03:50:29 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 341
+[31-Mar-2023 03:50:29 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 342
+[31-Mar-2023 03:50:29 UTC] PHP Warning:  Undefined variable $to in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[31-Mar-2023 03:50:29 UTC] PHP Warning:  Undefined variable $subject in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[31-Mar-2023 04:17:29 UTC] PHP Warning:  Undefined array key "fname" in /home/fidenkoq/public_html/User/scripts/funct.php on line 594
+[31-Mar-2023 04:23:17 UTC] PHP Warning:  Undefined array key "fname" in /home/fidenkoq/public_html/User/scripts/funct.php on line 594
+[31-Mar-2023 04:24:04 UTC] PHP Warning:  Undefined array key "fname" in /home/fidenkoq/public_html/User/scripts/funct.php on line 594
+[31-Mar-2023 04:24:49 UTC] PHP Warning:  Undefined array key "fname" in /home/fidenkoq/public_html/User/scripts/funct.php on line 594
+[31-Mar-2023 07:35:36 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 341
+[31-Mar-2023 07:35:36 UTC] PHP Warning:  Undefined variable $from in /home/fidenkoq/public_html/User/scripts/funct.php on line 342
+[31-Mar-2023 07:35:36 UTC] PHP Warning:  Undefined variable $to in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
+[31-Mar-2023 07:35:36 UTC] PHP Warning:  Undefined variable $subject in /home/fidenkoq/public_html/User/scripts/funct.php on line 346
