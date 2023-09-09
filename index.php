@@ -1,6 +1,6 @@
 <?php
 
-header("Location:./landing/index.html");
+header("Location:./landing/index.php");
 
 include 'header.php';
 
