@@ -4,9 +4,9 @@ include 'header.php';
 
 ?>
 
-    <section class="hero" id="hero" data-aos="fade-down">
+<section id="home" class="hero-section d-flex align-items-center">
     <div class="container">
-        <form action="scripts/funct.php" method="post">
+        <form action="../scripts/funct.php" method="post">
             <div class="form-row row">
                 <div class="form-group col-md-6">
                     <label for="inputEmail4">Full Name</label>

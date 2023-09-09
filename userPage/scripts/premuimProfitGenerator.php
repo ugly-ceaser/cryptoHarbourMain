@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "jay";
+$username = "hkfrxrqsah_admin";
+$password = "marti08139110216";
+$dbname = "hkfrxrqsah_Data";
 
 // $servername = "localhost";
 // $username = "arbikawn_Root";

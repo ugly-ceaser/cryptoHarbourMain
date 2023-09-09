@@ -1,4 +1,4 @@
 <?php
-    $companyName = "Capital Profits";
+    $companyName = "Crypto Harbor Capital";
 
 ?>

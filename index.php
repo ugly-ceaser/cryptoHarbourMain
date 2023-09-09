@@ -1,5 +1,7 @@
 <?php
 
+header("Location:./landing/index.html");
+
 include 'header.php';
 
 ?>

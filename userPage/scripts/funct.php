@@ -5,11 +5,10 @@ error_reporting(E_ALL);
 //session_start();
 
 
-
 $servername = "localhost";
-$username = "capildpro_dev";
+$username = "hkfrxrqsah_admin";
 $password = "marti08139110216";
-$dbname = "capildpro_Data";
+$dbname = "hkfrxrqsah_Data";
 
 
 // Create connection

@@ -432,58 +432,58 @@ if(!isset($_SESSION["Admin"])) header("Location: ./index.php");
         </div>
         
 
-<div class="container-fluid row">
-            <div class="col-sm-12 col-md-12 col-lg-12 alert alert-primary d-flex justify-content-center align-items-center role=" alert">
-                Users
-            </div>
-            <table style="max-height:50vh; overflow:scroll" class="table table-hover col-sm-12 col-md-8 col-lg-12 ">
-                    <thead>
-                        <tr>
-                            <th scope="col">FullName</th>
-                            <th>package</th>
-                            <th scope="col">invested Amount</th>
-                            <th scope="col">Profit</th>
-                            <th>bonus</th>
-                            <th scope="col">Balance</th>                           
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <?php if(count(getUsers($conn))): ?>
-                        <?php foreach(getUsers($conn) as $user): ?>
-                        <tr>
-                            <th scope="row">
-                                <?= $user["fname"]  ?>
-                            </th>
-                            <td>
-                                <?= $user["package"]; ?>
-                            </td>                        
-                            <td>
-                                <?= $user["investedAmount"]; ?>
-                            </td>
-                            <td>
-                                <?= $user["profit"]; ?>
-                            </td>
-                            <td>
-                                <?= $user["bonus"]; ?>
-                            </td>
-                            <td>
-                                <?= $user["balance"]; ?>
-                            </td> 
-                        </tr>
-                        <?php endforeach; ?>
-                        <?php else: ?>
-                        <tr>
-                            <td colspan="5">
-                                <div class="d-flex h-25 align-items-center justify-content-center">
-                                    No user found
-                                </div>
-                            </td>
-                        </tr>
-                        <?php endif; ?>
-                    </tbody>
-            </table>
-                
-</div>
+        <div class="container-fluid row">
+                    <div class="col-sm-12 col-md-12 col-lg-12 alert alert-primary d-flex justify-content-center align-items-center role=" alert">
+                        Users
+                    </div>
+                    <table style="max-height:50vh; overflow:scroll" class="table table-hover col-sm-12 col-md-8 col-lg-12 ">
+                            <thead>
+                                <tr>
+                                    <th scope="col">FullName</th>
+                                    <th>package</th>
+                                    <th scope="col">invested Amount</th>
+                                    <th scope="col">Profit</th>
+                                    <th>bonus</th>
+                                    <th scope="col">Balance</th>                           
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <?php if(count(getUsers($conn))): ?>
+                                <?php foreach(getUsers($conn) as $user): ?>
+                                <tr>
+                                    <th scope="row">
+                                        <?= $user["fname"]  ?>
+                                    </th>
+                                    <td>
+                                        <?= $user["package"]; ?>
+                                    </td>                        
+                                    <td>
+                                        <?= $user["investedAmount"]; ?>
+                                    </td>
+                                    <td>
+                                        <?= $user["profit"]; ?>
+                                    </td>
+                                    <td>
+                                        <?= $user["bonus"]; ?>
+                                    </td>
+                                    <td>
+                                        <?= $user["balance"]; ?>
+                                    </td> 
+                                </tr>
+                                <?php endforeach; ?>
+                                <?php else: ?>
+                                <tr>
+                                    <td colspan="5">
+                                        <div class="d-flex h-25 align-items-center justify-content-center">
+                                            No user found
+                                        </div>
+                                    </td>
+                                </tr>
+                                <?php endif; ?>
+                            </tbody>
+                    </table>
+                        
+        </div>
 
 
     </section>

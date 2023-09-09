@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "capildpro_dev";
+$username = "hkfrxrqsah_admin";
 $password = "marti08139110216";
-$dbname = "capildpro_Data";
+$dbname = "hkfrxrqsah_Data";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);

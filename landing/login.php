@@ -4,9 +4,9 @@ include 'header.php';
 
 ?>
 
-    <section class="hero" id="hero" data-aos="fade-down">
+<section id="home" class="hero-section d-flex align-items-center">
     <div class="container d-flex justify-content-center bg-light">
-        <form method="post" action="./scripts/funct.php" >
+        <form method="post" action="../scripts/funct.php" >
             <div class="form-group">
               <label for="exampleInputEmail1">Username</label>
               <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Username" name="username">

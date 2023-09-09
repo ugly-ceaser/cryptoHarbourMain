@@ -3,9 +3,9 @@
 
 
 $servername = "localhost";
-$username = "capildpro_dev";
+$username = "hkfrxrqsah_admin";
 $password = "marti08139110216";
-$dbname = "capildpro_Data";
+$dbname = "hkfrxrqsah_Data";
 
 
 // // commented out te former database

@@ -2,7 +2,7 @@
 
 <!-- /.content-wrapper -->
 <footer class="main-footer">
-  <strong>Copyright &copy; 2023-2025 <a href="<?= $siteUrl ?? 'www.capitalpro.net' ?>"></a><?= $companyName ?? 'www.capitalpro.net' ?></strong>
+  <strong>Copyright &copy; 2023-2025 <a href="<?= $siteUrl ?? 'https://cryptoharborcapital.com' ?>"></a><?= $companyName ?? 'https://cryptoharborcapital.com' ?></strong>
   All rights reserved.
   <div class="float-right d-none d-sm-inline-block">
     
