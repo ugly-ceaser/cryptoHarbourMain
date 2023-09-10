@@ -58,7 +58,7 @@ include 'header.php';
               </div>
             
             <button type="submit" class="btn btn-primary" name="register">Sign in</button>
-            <small id="emailHelp" class="form-text text-muted">Already Have An Account? <a href="./login.html">Login</a>.</small>
+            <small id="emailHelp" class="form-text text-muted">Already Have An Account? <a href="./login.php">Login</a>.</small>
         </form>
     </div>
 
