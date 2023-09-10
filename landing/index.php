@@ -35,7 +35,7 @@ include 'header.php';
                         <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                         <h3>Basic Package</h3>
                         <p>Minimum Deposit: $200 - $2999</p>
-                        <p>RIO: 7% Weekly</p>
+                        <p>RIO: 20% Weekly</p>
                         <p>Weekly Withdrawal</p>
                         <p>5% refree initial Deposit</p>
                     </div>
@@ -43,7 +43,7 @@ include 'header.php';
                         <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                         <h3>Advance Package</h3>
                         <p>Minimum Deposit: $3000 - $9999</p>
-                        <p>RIO: 10% Weekly</p>
+                        <p>RIO: 20% Weekly</p>
                         <p>Weekly Withdrawal</p>
                         <p>7% refree initial Deposit</p>
                     </div>
@@ -205,7 +205,7 @@ include 'header.php';
                             <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                             <h3>Basic Package</h3>
                             <p>Minimum Deposit: $200 - $2999</p>
-                            <p>RIO: 7% Weekly</p>
+                            <p>RIO: 20% Weekly</p>
                             <p>Weekly Withdrawal</p>
                             <p>5% refree initial Deposit</p>
                         </div>
@@ -216,7 +216,7 @@ include 'header.php';
                             <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                             <h3>Advance Package</h3>
                             <p>Minimum Deposit: $3000 - $9999</p>
-                            <p>RIO: 10% Weekly</p>
+                            <p>RIO: 20% Weekly</p>
                             <p>Weekly Withdrawal</p>
                             <p>7% refree initial Deposit</p>
                         </div>
@@ -227,7 +227,7 @@ include 'header.php';
                             <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                             <h3>Premium Package</h3>
                             <p>Minimum Deposit: $10,000 - $49,999</p>
-                            <p>RIO: 12% Weekly</p>
+                            <p>RIO: 30% Weekly</p>
                             <p>Weekly Withdrawal</p>
                             <p>9% refree initial Deposit</p>
                         </div>
@@ -240,7 +240,7 @@ include 'header.php';
                             <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                             <h3>Platinum Package</h3>
                             <p>Minimum Deposit: $50,000 - $99999</p>
-                            <p>RIO: 7% Bi-Weekly</p>
+                            <p>RIO: 40% Weekly</p>
                             <p>Weekly Withdrawal</p>
                             <p>10% refree initial Deposit</p>
                         </div>
@@ -252,7 +252,7 @@ include 'header.php';
                             <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                             <h3>Gold Package</h3>
                             <p>Minimum Deposit: $100,000 - $150,000</p>
-                            <p>RIO: 10% Bi - Weekly</p>
+                            <p>RIO: 50% Weekly</p>
                             <p>Weekly Withdrawal</p>
                             <p>15% refree initial Deposit</p>
                         </div>
@@ -264,7 +264,7 @@ include 'header.php';
                             <img src="./assets/img/IMG_1101.PNG" alt="" width="50">
                             <h3>VIP Package</h3>
                             <p>Minimum Deposit: $150000 - </p>
-                            <p>RIO: 10% Bi-Weekly</p>
+                            <p>RIO: 50% Bi-Weekly</p>
                             <p>Weekly Withdrawal</p>
                             <p>15% refree initial Deposit</p>
                         </div>
