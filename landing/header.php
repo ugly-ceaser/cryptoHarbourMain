@@ -50,7 +50,10 @@
         <header id="header" class="header-section">
             <div class="container">
                 <nav class="navbar">
-                    <a href="#" class="navbar-brand"> Crypto Harbor Capital</a><!-- /.navbar-brand -->
+                    <a href="#" class="navbar-brand">
+                        <img class="img-sm" src="./img/logo.jpg"  height="36" alt="logo">
+                         Crypto Harbor Capital
+                        </a><!-- /.navbar-brand -->
                     <div class="d-flex menu-wrap">
                        <div id="navmenu" class="mainmenu">
                            <ul class="nav">

@@ -20,6 +20,8 @@ include 'header.php';
                     <div class="col-md-6 xs-padding">
                         <div class="hero-img">
                             <img src="img/hero-img.png" alt="Hero Img">
+                           
+                            
                         </div>
                     </div><!-- Image -->
                 </div><!-- /.row.hero-wrap -->
