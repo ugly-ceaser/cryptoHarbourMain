@@ -45,7 +45,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `btcAddress`, `btcImg`, `ethAddress`, `ethImg`, `usdtAddress`, `usdtImg`) VALUES
-(1, 'jay', 'jay$', 'bc1q6k4g8t970wewwj8vpdmmmhy6ffhg0qr5rr60wc', 'btc.jpg', '0xf3844B225F6eaeFE45B757b258fDc05cA9FE6E70', 'eth.jpg', 'TRuBwHUeRqgmzsLmm7FBdoTHZyD13NrTGR', 'usdt.jpg');
+(1, 'jay', 'jay$', 'bc1qqy99afugrwva3ph2fpz05zjg0des5ajly00pr4', 'btc.jpg', '0xe02219b32B339a4075C3e03395bb82A05cf9c130', 'eth.jpg', 'none', 'none');
 
 -- --------------------------------------------------------
 
