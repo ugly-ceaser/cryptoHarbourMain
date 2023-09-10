@@ -43,7 +43,7 @@
 
         <div id='preloader' >
             <div class='loader' >
-                <img src="img/logo.jpg" width="200" height="200" alt="">
+                <img src="img/logo.jpg" width="50" alt="">
             </div>
         </div><!-- Preloader -->
 

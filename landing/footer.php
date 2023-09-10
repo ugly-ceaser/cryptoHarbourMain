@@ -32,7 +32,7 @@
                             <h3>Contact Us</h3>
                             <ul class="widget-link">
                                 <li><i class="ti-location-pin"></i>05 Koontz Lane, North South, United States.</li>
-                                <li><i class="ti-email"></i>information@gmail.com</li>
+                                <li><i class="ti-email"></i>info@cryptoharborcapital.com</li>
                                 <li><i class="ti-headphone"></i>+08 (123) 456 99</li>
                             </ul>
                         </div>

@@ -78,7 +78,7 @@ if (isset($_POST["register"])) {
 
     if ($password != $confirm_password) {
 
-        header("location:../Register.php?msg=Password not matched");
+        header("location:../landing/Register.php?msg=Password not matched");
 
         
     }else{
@@ -123,7 +123,7 @@ if (isset($_POST["register"])) {
             
              
              
-            $from = "support@capitalworldpro.com";
+            $from = "support@cryptoharborcapital.com";
             $to = $email;
             
                  
@@ -133,13 +133,13 @@ if (isset($_POST["register"])) {
                 Hello $fname 
                 <html>
                 <head>
-                <title>Capital World Profits</title>
+                <title>Crypto Harbor Capital</title>
                 
                 </head>
                 <body>
-                <img src='https://capitalworldpro.com/userPage/dist/img/logo.png' alt='Capital World profit Logo Image'>
+                <img src='https://cryptohaborcpital.com/userPage/dist/img/logo.png' alt='Capital World profit Logo Image'>
                 <br>
-                <p>Your registration with Capital World Profits has been successfully completed.</p>
+                <p>Your registration with Crypto Harbor Capital has been successfully completed.</p>
                 <p> Please log in with the following credentials</p>
         
                 
@@ -161,17 +161,18 @@ if (isset($_POST["register"])) {
              $retval = mail ($to,$subject,$message,$header);
              
              if( $retval == true ) {
-                header("location:../login.php?msg=Welcome Please Login");
+                header("location:../landing/login.php?msg=Welcome Please Login");
              }
             
             
             
-             header("location:../login.php?msg=Registration Successfull, please Login");
+             header("location:../landing/login.php?msg=Registration Successfull, please Login");
             
         } else {
             
             //header("location:../signup.php?msg=Not Successfull, please try again");
-            echo "Error: " . $sql . "<br>" . $conn->error;
+            header("location:../landing/Register.php?msg=Error: $conn->error");
+            //echo "Error: " . $sql . "<br>" . $conn->error;
             die();
             
         }
@@ -216,9 +217,9 @@ if (isset($_POST["login"])) {
 
             header("location:../userPage/index.php");
         } else {
-            header("location:../login.php?msg=Wrong password");
+            header("location:../landing/login.php?msg=Wrong password");
         }
     } else {
-        header("location:../login.php?msg=Wrong Details");
+        header("location:../landing/login.php?msg=Wrong Details");
     }
 }
