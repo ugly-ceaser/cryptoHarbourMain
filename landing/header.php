@@ -11,7 +11,7 @@
 
         <title> Crypto Harbor Capital</title>
 
-		<link rel="shortcut icon" type="image/x-icon" href="img/logo.png">
+		<link rel="shortcut icon" type="image/x-icon" href="img/logo.jpg">
 
 		<!-- Font Awesome CSS -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
