@@ -16,6 +16,7 @@
                 width: 80%;
                 margin: 0 auto;
             }
+            /* check */
 
             @media (max-width: 767px) {
                 .container {
