@@ -1,4 +1,4 @@
-<section class="widget-section bd-bottom pd-bottom">
+        <section class="widget-section bd-bottom pd-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 sm-padding">
@@ -67,6 +67,19 @@
 		<script src="js/vendor/wow.min.js"></script>
 		<!-- Main JS -->
 		<script src="js/main.js"></script>
+        <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+            (function(){
+            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+            s1.async=true;
+            s1.src='https://embed.tawk.to/64fd6ff3b2d3e13950eef49f/1h9uvql0d';
+            s1.charset='UTF-8';
+            s1.setAttribute('crossorigin','*');
+            s0.parentNode.insertBefore(s1,s0);
+            })();
+        </script>
+        <!--End of Tawk.to Script-->
 
     </body>
 </html>
