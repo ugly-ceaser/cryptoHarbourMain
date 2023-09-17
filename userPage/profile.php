@@ -57,7 +57,7 @@
                   </li>
                   <li class="list-group-item">
                   <b>Referral link:</b>
-                    <a href="https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>" class="float-right">
+                    <a style="overflow:scroll" href="https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>" class="float-right">
                         https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>
                     </a>
                   </li>

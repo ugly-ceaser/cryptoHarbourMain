@@ -35,7 +35,7 @@
                                 <li><i class="ti-email"></i>info@cryptoharborcapital.com</li>
                                 <li>
                                     <i class="ti-headphone"></i>
-                                    <a href="https://wa.me/12567403022">+1 (256) 740-3022 <sub><img src="./img/whatsapp.png" alt="WhatsApp" height="20" width="20"></sub></a>
+                                    <a href="https://wa.me/12567403022">+1 (256) 740-3022<img src="./img/whatsapp.png" alt="WhatsApp" height="20" width="20"></a>
                                 </li>
 
 
