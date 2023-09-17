@@ -56,7 +56,10 @@
                     <b>Acount Balance</b> <a class="float-right">$<?= $currentBalance ?? 0 ?></a>
                   </li>
                   <li class="list-group-item">
-                    <b>Referral Id</b> <a class="float-right"><?= $referalid ?? null ?></a>
+                  <b>Referral link:</b>
+                    <a href="https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>" class="float-right">
+                        https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>
+                    </a>
                   </li>
                 </ul>
 

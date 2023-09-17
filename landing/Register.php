@@ -4,6 +4,19 @@ include 'header.php';
 
 ?>
 
+<?php
+
+if (isset($_GET['ref'])) {
+  $refId = $_GET['ref'];
+
+  
+  
+}
+
+
+
+?>
+
 <section id="home" class="hero-section d-flex align-items-center">
     <div class="container">
         <form action="../scripts/funct.php" method="post">
@@ -37,7 +50,7 @@ include 'header.php';
 
               <div class="form-group col-md-4">
                 <label for="inputCity">Referee</label>
-                <input type="text" class="form-control" id="inputCity" placeholder="Enter Your Referee Code" name="referalCode">
+                <input type="text" class="form-control" id="inputCity" placeholder="Enter Your Referee Code" name="referalCode" <?php if(isset($refId)) echo 'value="' . $refId . '"'; ?>>
               </div>
               <div class="form-group col-md-4">
                 <label for="inputState">Package</label>
