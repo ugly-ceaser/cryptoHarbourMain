@@ -24,8 +24,7 @@ $currentBalance = getDetails("users", $conn,$email)['balance'];
 
 $referalid = getDetails("users", $conn,$email)['invitecode'];
 
-echo($referalid);
-die();
+
 
 
 

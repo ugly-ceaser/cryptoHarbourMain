@@ -3,6 +3,9 @@
 
   require_once("header.php");
 
+  echo($referalid);
+  die();
+
 ?>
 
 
