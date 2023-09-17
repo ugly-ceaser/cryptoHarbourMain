@@ -3,8 +3,7 @@
 
   require_once("header.php");
 
-  echo($referalid);
-  die();
+
 
 ?>
 
@@ -60,8 +59,8 @@
                   </li>
                   <li class="list-group-item">
                   <b>Referral link:</b>
-                    <a style="width:5rem; overflow:hidden;" href="https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>" class="float-right">
-                    <?= $referralid ?? null ?> https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referralid ?? null ?>
+                    <a style="width:5rem; overflow:hidden;" href="https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referalid ?? null ?>" class="float-right">
+                     https://cryptoharborcapital.com/landing/Register.php?ref=<?= $referalid ?? null ?>
                     </a>
                   </li>
                 </ul>
