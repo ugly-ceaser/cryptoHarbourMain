@@ -55,6 +55,9 @@
                   <li class="list-group-item">
                     <b>Acount Balance</b> <a class="float-right">$<?= $currentBalance ?? 0 ?></a>
                   </li>
+                  <li class="list-group-item">
+                    <b>Referral Id</b> <a class="float-right"><?= $referalid ?? null ?></a>
+                  </li>
                 </ul>
 
                 <a href="./scripts/funct.php?invest=terminate"  class="btn btn-primary btn-block"><b>Terminate Current Investment</b></a>

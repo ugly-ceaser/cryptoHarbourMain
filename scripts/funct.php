@@ -50,7 +50,7 @@ if (isset($_POST["register"])) {
     // $registration_id = implode("", randomGen(0, 20, 10));
 
 
-    // $referral_code = implode("", randomGen(0, 10, 10));
+    $referral_code = implode("", randomGen(0, 10, 10));
 
     $fname = test_input($_POST['fname']);
 
@@ -84,7 +84,7 @@ if (isset($_POST["register"])) {
     }else{
 
       
-        $sql = "INSERT INTO `users`(`fname`, `email`, `username`, `password`, `package`, `registration_date`, `referral`,`phoneNumber`) VALUES ('$fname', '$email','$username', ' $password_hash', '$package', '$registration_date','$referree_code','$terms')";
+        $sql = "INSERT INTO `users`(`fname`, `email`,`invitecode`, `username`, `password`, `package`, `registration_date`, `referral`,`phoneNumber`) VALUES ('$fname', '$email','$referral_code','$username', ' $password_hash', '$package', '$registration_date','$referree_code','$terms')";
 
   
 

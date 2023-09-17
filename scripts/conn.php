@@ -2,17 +2,17 @@
 
 
 
-$servername = "localhost";
-$username = "hkfrxrqsah_admin";
-$password = "marti08139110216";
-$dbname = "hkfrxrqsah_Data";
-
-
-// // commented out te former database
 // $servername = "localhost";
-// $username = "root";
-// $password = "";
-// $dbname = "data";
+// $username = "hkfrxrqsah_admin";
+// $password = "marti08139110216";
+// $dbname = "hkfrxrqsah_Data";
+
+
+// commented out te former database
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "data";
 
 
 // Create connection
