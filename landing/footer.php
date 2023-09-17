@@ -33,7 +33,12 @@
                             <ul class="widget-link">
                                 <li><i class="ti-location-pin"></i>05 Koontz Lane, North South, United States.</li>
                                 <li><i class="ti-email"></i>info@cryptoharborcapital.com</li>
-                                <li><i class="ti-headphone"></i>+1 (256) 740-3022 (Whatsapp line)</li>
+                                <li>
+                                    <i class="ti-headphone"></i>
+                                    <a href="https://wa.me/12567403022">+1 (256) 740-3022 <sub><img src="./img/whatsapp.png" alt="WhatsApp" height="20" width="20"></sub></a>
+                                </li>
+
+
                             </ul>
                         </div>
                     </div><!-- Widget 3 -->
