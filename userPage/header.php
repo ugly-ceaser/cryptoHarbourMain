@@ -6,7 +6,7 @@ require_once ("names.php");
 session_start();
 
 if(!isset($_SESSION["email"])){
-  header("Location:../login.php?msg=please login");
+  header("Location:../landing/login.php?msg=please login");
 }
 
 include_once'./scripts/conn.php';
