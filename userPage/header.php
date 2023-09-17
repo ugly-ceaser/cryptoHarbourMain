@@ -21,7 +21,11 @@ $totalDeposit = get_total($conn, "deposit", "approved");
 $totalWithdrawal = get_total($conn, "withdraw", "approved");
 
 $currentBalance = getDetails("users", $conn,$email)['balance'];
+
 $referalid = getDetails("users", $conn,$email)['invitecode'];
+
+echo($referalid);
+die();
 
 
 
